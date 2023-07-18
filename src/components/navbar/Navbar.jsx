@@ -7,11 +7,11 @@ const Navbar = () => {
         <img src={logo} alt="horoscope" />
       </div>
       <div className="links">
-        <a href="#">Horoscope</a>
-        <a href="#">Daily</a>
-        <a href="#">Tarot</a>
-        <a href="#">Article</a>
-        <a href="#">Contact</a>
+        <a href="#Horoscope">Horoscope</a>
+        <a href="#Daily">Daily</a>
+        <a href="#Tarot">Tarot</a>
+        <a href="#Article">Article</a>
+        <a href="#Contact">Contact</a>
       </div>
     </div>
   );
